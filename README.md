@@ -1,7 +1,12 @@
 # Streaming Paper List
 
-## Test-Time Adaptation
+## Survey
 
+| Venue | Title | Links |
+|:-:|:--|:--|
+| CSUR'23 | Scarcity of Labels in Non-Stationary Data Streams: A Survey | [[Paper](https://dl.acm.org/doi/abs/10.1145/3494832)] |
+
+## Test-Time Adaptation
 
 | Venue | Title | Links |
 |:-:|:--|:--|
