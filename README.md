@@ -10,6 +10,10 @@
 
 ## Inexact Supervison
 
+| Venue | Title | Links |
+|:-:|:--|:--|
+| PKDD‘20 | Online Partial Label Learning | [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-67661-2_27)] |
+
 ## Imcomplete Supervision
 
 ### Test-Time Adaptation
