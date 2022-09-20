@@ -8,7 +8,9 @@
 
 ## Inaccurate Supervision
 
-## Inexact Supervison
+### Noisy Labels
+
+### Partial Labels
 
 | Venue | Title | Links |
 |:-:|:--|:--|
@@ -31,3 +33,8 @@
 | NeurIPS'22 | Test-Time Training with Masked Autoencoders | [[Paper](https://arxiv.org/pdf/2209.07522.pdf)] [[Code](https://arxiv.org/pdf/2209.07522.pdf)] |
 | NeurIPS'22 | Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering | [[Paper](https://arxiv.org/pdf/2206.02721.pdf)] [[Code](https://github.com/Gorilla-Lab-SCUT/TTAC)] |
 
+
+## Learning Materials
+
+* [Francesco Orabona, **Introduction to Online Learning** (parameterfree.com)](https://parameterfree.com/lecture-notes-on-online-learning/)
+* [Francesco Orabona and Ashok Cutkosky, **Parameter-free Online Optimization** (ICML'21 Tutorial)](https://parameterfree.com/icml-tutorial/)
