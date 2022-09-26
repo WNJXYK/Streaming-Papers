@@ -10,6 +10,13 @@
 
 ### Noisy Labels
 
+
+| Venue | Title | Links |
+|:-:|:--|:--|
+| KDD‘22 | Adaptive Learning for Weakly Labeled Streams | [[Paper](https://www.lamda.nju.edu.cn/zhangzy/KDD%2722_AdaStreams.pdf)] |
+
+
+
 ### Partial Labels
 
 | Venue | Title | Links |
@@ -33,6 +40,8 @@
 | NeurIPS'22 | Test-Time Training with Masked Autoencoders | [[Paper](https://arxiv.org/pdf/2209.07522.pdf)] [[Code](https://arxiv.org/pdf/2209.07522.pdf)] |
 | NeurIPS'22 | Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering | [[Paper](https://arxiv.org/pdf/2206.02721.pdf)] [[Code](https://github.com/Gorilla-Lab-SCUT/TTAC)] |
 
+
+## Inexact Supervision
 
 ## Learning Materials
 
