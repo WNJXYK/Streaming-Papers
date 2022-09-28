@@ -13,6 +13,7 @@
 
 | Venue | Title | Links |
 |:-:|:--|:--|
+| ICDM'04 | An adaptive learning approach for noisy data streams | [[Paper](https://www.computer.org/csdl/proceedings-article/icdm/2004/21420351/12OmNAXxX65)] | 
 | KDD‘22 | Adaptive Learning for Weakly Labeled Streams | [[Paper](https://www.lamda.nju.edu.cn/zhangzy/KDD%2722_AdaStreams.pdf)] |
 
 
