@@ -1,6 +1,6 @@
-# Weakly Supervised Streaming Paper List
+# Weakly Supervised Streaming
 
-## Survey
+## Survey about Streaming Data
 
 | Venue | Title | Links |
 |:-:|:--|:--|
@@ -43,6 +43,12 @@
 
 
 ## Inexact Supervision
+
+## Dataset
+
+1. https://users.rowan.edu/~polikar/nse.html
+2. http://www.lamda.nju.edu.cn/data_RFID.ashx
+3. http://people.eecs.berkeley.edu/~shiry/projects/yearbooks/yearbooks.html
 
 ## Learning Materials
 
